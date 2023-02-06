@@ -67,7 +67,7 @@ myip=\$(hostname -I | awk '{print\$1}')
 cat <<EOF
 ********************************************************************************
 
-Welcome to Linode's One-Click Microweber server!
+Welcome to Cloudhost's One-Click Microweber server!
 To keep this server secure, the UFW firewall is enabled.
 All ports are BLOCKED except 22 (SSH), 80 (HTTP), and 443 (HTTPS).
 In a web browser, you can view:
